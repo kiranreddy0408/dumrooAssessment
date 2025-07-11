@@ -1,0 +1,4 @@
+DATABASE_URL=postgresql://user:password@localhost:5432/DatabaseName
+GOOGLE_API_KEY="your gemini api key"
+#OPEN_API_KEY="your OPENAI api key"
+
