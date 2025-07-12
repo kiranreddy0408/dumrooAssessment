@@ -41,7 +41,7 @@ An intelligent, role-based dashboard to **query educational insights using natur
 ### ⚙️ 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/dumroo-ai-admin.git
+git clone https://github.com/kiranreddy0408/dumrooAssessment
 cd dumroo-ai-admin
 ```
 ### 🔧 2. Backend Setup (FastAPI)
